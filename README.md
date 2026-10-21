@@ -1,4 +1,4 @@
-# Visual Object Sorting Robot – Midterm: 4-Class Recognition
+# Visual Object Sorting Robot
 
 Recognizes **bottle, can, box, ball** from a camera, outlines the object and labels it.
 Classifier: MobileNetV2 transfer learning. Works with most public datasets and cluttered backgrounds.
